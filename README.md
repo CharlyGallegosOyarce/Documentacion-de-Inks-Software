@@ -12,8 +12,8 @@ Aquí podrás encontrar referencias de los softwares implementados para cada Cli
 
 ## Imágenes
 
-### Esquema de la base de datos DIRAC
+### Esquema de las relaciones Principales entre tablas de la BD de DIRAC
 ![Esquema de la base de datos](imagen_2025-03-20_203615418.png)
 
-### Otra vista de la base de datos
+### Vista completa de la Base de Datos
 ![Vista adicional](imagen_2025-03-20_232206686.png)
