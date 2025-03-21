@@ -16,4 +16,4 @@ Aquí podrás encontrar referencias de los softwares implementados para cada Cli
 ![Esquema de la base de datos](imagen_2025-03-20_203615418.png)
 
 ### Otra vista de la base de datos
-![Vista adicional](imagen_2025-03-20_203808160.png)
+![Vista adicional](imagen_2025-03-20_232206686.png)
