@@ -6,6 +6,6 @@ Aquí podrás encontrar referencias de los softwares implementados para cada Cli
 
 ### DIRAC
 - **Descripción:** Implementación de una base de datos en SQL Server.
-- **Objetivo:** Facilitar el análisis de información de los clientes y optimizar la gestión de datos.
+- **Objetivo:** Facilitar el análisis de información de los clientesy optimizar la gestión de datos obtenidos
 - **Tecnologías usadas:** SQL Server.
-- **Capacitaciones brindadas:** Uso y mantenimiento de la base de datos.
+- **Capacitaciones brindadas:** uso sobre consultas avanzadas, automatizaciones y uso de Copias de Seguridad y BackUps
