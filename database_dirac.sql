@@ -1,17 +1,14 @@
 /*
-Estructuración de Base de Datos de DIRAC
+EstructuraciÃ³n de Base de Datos de DIRAC
 
 by: Ink's Software - CRGO
 */
 
--- creación y uso de Base de Datos
+-- creaciÃ³n y uso de Base de Datos
 create database baseDatos_dirac
 use baseDatos_dirac
 
--- Creación de Tablas
-
-alter table Asesores
-drop column id_curso
+-- CreaciÃ³n de Tablas
 
 create table Asesores(
 	ID_Asesor int primary key,
